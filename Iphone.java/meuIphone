@@ -1,0 +1,15 @@
+    public class meuIPhone {
+        public static void main(String[] args) {
+        iPhone meuIPhone = new iPhone();
+        // Testando funcionalidades
+        meuIPhone.tocar();
+        meuIPhone.pausar();
+        meuIPhone.selecionarMusica("Minha Musica Favorita");
+        meuIPhone.ligar("123-4567");
+        meuIPhone.atender();
+        meuIPhone.iniciarCorreioVoz();
+        meuIPhone.exibirPagina("www.exemplo.com");
+        meuIPhone.adicionarNovaAba();
+        meuIPhone.atualizarPagina();
+    }
+}
