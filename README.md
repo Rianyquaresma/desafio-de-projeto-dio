@@ -17,7 +17,7 @@ Este repositório contém a solução de um desafio de projeto proposto na Digit
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do curso/desafio da plataforma DIO, tendo como objetivo aplicar na prática os conceitos aprendidos durante as aulas, tais como:
+Conceitos aprendidos durante as aulas:
 
 - Criação de repositórios GitHub
 - Versionamento de código
@@ -25,6 +25,14 @@ Este projeto foi desenvolvido como parte do curso/desafio da plataforma DIO, ten
 - Implementação de uma solução para o desafio proposto
 
 A proposta do desafio pode variar conforme o curso realizado. Recomenda-se consultar o material da DIO para mais detalhes sobre o desafio em específico.
+
+Este projeto tem como objetivo a modelagem do iPhone utilizando UML (Unified Modeling Language), conforme desafio proposto. Aqui você encontrará a estrutura de classes, interfaces e funcionalidades típicas de um smartphone iPhone, representadas em diagramas UML e, possivelmente, implementações em código para simular:
+
+Estrutura básica de hardware e software do iPhone.
+Funcionalidades essenciais como chamadas, envio de mensagens, reprodução de música e navegação na internet.
+Modelagem de classes que representam aplicativos, recursos de sistema, e interação do usuário.
+Exemplos de boas práticas em orientação a objetos e design de software.
+O projeto serve como um exercício prático para consolidar os conhecimentos em análise e modelagem de sistemas, usando UML para descrever a arquitetura e o funcionamento de um dispositivo moderno como o iPhone.
 
 ## Tecnologias Utilizadas
 
