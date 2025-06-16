@@ -34,6 +34,33 @@ Modelagem de classes que representam aplicativos, recursos de sistema, e intera�
 Exemplos de boas práticas em orientação a objetos e design de software.
 O projeto serve como um exercício prático para consolidar os conhecimentos em análise e modelagem de sistemas, usando UML para descrever a arquitetura e o funcionamento de um dispositivo moderno como o iPhone.
 
+classDiagram
+    class ReprodutorMusical {
+        +tocar()
+        +pausar()
+        +selecionarMusica(String musica)
+    }
+
+    class AparelhoTelefonico {
+        +ligar(String numero)
+        +atender()
+        +iniciarCorreioVoz()
+    }
+
+    class NavegadorInternet {
+        +exibirPagina(String url)
+        +adicionarNovaAba()
+        +atualizarPagina()
+    }
+
+    class iPhone {
+    }
+
+    iPhone --> ReprodutorMusical
+    iPhone --> AparelhoTelefonico
+    iPhone --> NavegadorInternet
+
+
 ## Tecnologias Utilizadas
 
 - [Git](https://git-scm.com/)
